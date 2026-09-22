@@ -8,5 +8,5 @@
 - 回答、差戻し、終了、処理済み履歴、詳細表示を実装
 - 承認依頼、回覧受信、差戻し、決裁完了の新着通知を実装
 - フレーム単位で有効・無効を選択できるメール通知を実装
-- CirculationsのPlugin、Model、View、URL、テーブル名をYuyuCirculationへ改称
+- Plugin、Model、View、URL、テーブル名をYuyuCirculation名称で統一
 - 新規インストール用の配布ZIPを追加

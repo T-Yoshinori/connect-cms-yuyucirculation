@@ -24,7 +24,7 @@ Connect-CMS向けの非公式「回覧・決裁」プラグインです。所属
 - Connect-CMS 1.44.1
 - PHP 8.2
 
-本配布物は新規インストール用です。旧Circulations版または開発版YuyuCirculationの更新には使用しないでください。
+本配布物は新規インストール専用です。最初からYuyuCirculationとして導入する構成であり、旧Circulations版からの改称・更新用migrationは含みません。既存の開発版YuyuCirculationの更新にも使用しないでください。
 
 必ず検証環境で確認してから利用してください。本番環境へ導入する前に、ファイルとデータベースのバックアップを取得してください。
 
