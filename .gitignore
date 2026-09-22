@@ -1,0 +1,9 @@
+/build/
+*.log
+.env
+.env.*
+!.env.example
+*.sql
+*.sqlite
+*.sqlite3
+*.bak
