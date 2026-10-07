@@ -2,7 +2,7 @@
 
 Connect-CMS向けの非公式「回覧・決裁」プラグインです。所属・グループ・個人を組み合わせた回覧先指定、回答、進行管理、履歴、新着表示、メール通知を提供します。
 
-> バージョン: 0.9.0-beta.2  
+> バージョン: 0.9.0-beta.1  
 > 開発・提供: ゆうゆう企画  
 > 状態: ベータ版
 
@@ -40,7 +40,7 @@ Connect-CMS向けの非公式「回覧・決裁」プラグインです。所属
 
 ## ダウンロード
 
-- [connect-cms-yuyucirculation-0.9.0-beta.2.zip](downloads/connect-cms-yuyucirculation-0.9.0-beta.2.zip)
+- [connect-cms-yuyucirculation-0.9.0-beta.1.zip](downloads/connect-cms-yuyucirculation-0.9.0-beta.1.zip)
 
 ## インストール
 
