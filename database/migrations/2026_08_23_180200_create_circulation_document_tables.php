@@ -25,7 +25,7 @@ class CreateCirculationDocumentTables extends Migration
             $table->timestamp('circulation_started_at')->nullable();
             $table->timestamp('completed_at')->nullable();
             $this->auditColumns($table);
-            $table->index(['circulation_id', 'applicant_user_id']);
+            $table->index(['circulation_id', 'applicant_user_id'], 'yuyu_circ_documents_applicant_index');
             $table->index('template_id');
             $table->index('status');
             $table->index('approval_status');
